@@ -13,3 +13,7 @@ console.log("This is the click function")
 console.log("Missing the hello function")
 
 }
+
+function hello(){
+    console.log("Tis is the new hello function")
+}
