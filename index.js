@@ -11,3 +11,7 @@ const click= ()=>{
 console.log("This is the click function")
 
 }
+
+function hello(){
+    console.log("Tis is the new hello function")
+}
