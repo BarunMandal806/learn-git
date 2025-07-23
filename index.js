@@ -6,7 +6,7 @@ function demo(){
 demo()
 const click= ()=>{
     setTimeout(()=>{
-        console.log("This is the settimeout console")
+        const a="Barun"
     },2000)
 console.log("This is the click function")
 
