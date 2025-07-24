@@ -16,3 +16,4 @@ console.log("Missing the hello function")
 function hello(){
     console.log("Tis is the new hello function")
 }
+console.log("I am your console function")
